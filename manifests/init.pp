@@ -4,8 +4,8 @@
 #
 #    include java
 class java (
-  $update_version = '55',
-  $base_download_url = 'https://s3.amazonaws.com/boxen-downloads/java'
+  $update_version = '60',
+  $base_download_url = 'https://s3.amazonaws.com/hyleung-boxen-downloads/java'
 ) {
   include boxen::config
 
